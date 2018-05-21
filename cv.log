@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6700 64-bit) (preloaded format=pdflatex 2018.5.19)  20 MAY 2018 12:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6700 64-bit) (preloaded format=pdflatex 2018.5.19)  21 MAY 2018 19:27
 entering extended mode
 **./cv.tex
 (cv.tex
@@ -684,26 +684,26 @@ Package: notoccite 2000/07/20
 ) (cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 21.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 (C:\Users\rmarques\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -766,7 +766,7 @@ G,.JBIG2,.JB2,.eps]
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box45
-Package hyperref Info: Link coloring OFF on input line 20.
+Package hyperref Info: Link coloring OFF on input line 21.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -775,9 +775,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count266
 )
-LaTeX Info: Redefining \ref on input line 20.
-LaTeX Info: Redefining \pageref on input line 20.
-LaTeX Info: Redefining \nameref on input line 20.
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
 
 (cv.out) (cv.out)
 \@outlinefile=\write3
@@ -818,70 +818,70 @@ LaTeX Info: Redefining \nameref on input line 20.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
  ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for T1+phv on input line 21.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 22.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 23.
+(Font)              <9> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 23.
+(Font)              <6> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 23.
+(Font)              <5> on input line 24.
 <my_photo.png, id=3, 604.50844pt x 746.03719pt>
 File: my_photo.png Graphic file (type png)
 <use my_photo.png>
-Package pdftex.def Info: my_photo.png  used on input line 23.
+Package pdftex.def Info: my_photo.png  used on input line 24.
 (pdftex.def)             Requested size: 108.12054pt x 133.42712pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 23.
+(Font)              <7> on input line 24.
 <address_europass_icon.pdf, id=5, 38.544pt x 38.544pt>
 File: address_europass_icon.pdf Graphic file (type pdf)
 <use address_europass_icon.pdf>
-Package pdftex.def Info: address_europass_icon.pdf  used on input line 23.
+Package pdftex.def Info: address_europass_icon.pdf  used on input line 24.
 (pdftex.def)             Requested size: 11.38092pt x 11.38095pt.
 <mobile_europass_icon.pdf, id=6, 38.544pt x 38.544pt>
 File: mobile_europass_icon.pdf Graphic file (type pdf)
 <use mobile_europass_icon.pdf>
-Package pdftex.def Info: mobile_europass_icon.pdf  used on input line 23.
+Package pdftex.def Info: mobile_europass_icon.pdf  used on input line 24.
 (pdftex.def)             Requested size: 11.38092pt x 11.38095pt.
 <telephone_europass_icon.pdf, id=7, 38.544pt x 38.544pt>
 File: telephone_europass_icon.pdf Graphic file (type pdf)
 <use telephone_europass_icon.pdf>
-Package pdftex.def Info: telephone_europass_icon.pdf  used on input line 23.
+Package pdftex.def Info: telephone_europass_icon.pdf  used on input line 24.
 (pdftex.def)             Requested size: 11.38092pt x 11.38095pt.
 <mail_europass_icon.pdf, id=8, 38.544pt x 38.544pt>
 File: mail_europass_icon.pdf Graphic file (type pdf)
 <use mail_europass_icon.pdf>
-Package pdftex.def Info: mail_europass_icon.pdf  used on input line 23.
+Package pdftex.def Info: mail_europass_icon.pdf  used on input line 24.
 (pdftex.def)             Requested size: 11.38092pt x 11.38095pt.
 <github_europass_icon.pdf, id=10, 32.70218pt x 31.88914pt>
 File: github_europass_icon.pdf Graphic file (type pdf)
 <use github_europass_icon.pdf>
-Package pdftex.def Info: github_europass_icon.pdf  used on input line 23.
+Package pdftex.def Info: github_europass_icon.pdf  used on input line 24.
 (pdftex.def)             Requested size: 11.38092pt x 11.0981pt.
 <linkedin_europass_icon.pdf, id=12, 38.544pt x 38.544pt>
 File: linkedin_europass_icon.pdf Graphic file (type pdf)
 <use linkedin_europass_icon.pdf>
-Package pdftex.def Info: linkedin_europass_icon.pdf  used on input line 23.
+Package pdftex.def Info: linkedin_europass_icon.pdf  used on input line 24.
 (pdftex.def)             Requested size: 11.38092pt x 11.38095pt.
 <im_europass_icon.pdf, id=14, 38.544pt x 38.544pt>
 File: im_europass_icon.pdf Graphic file (type pdf)
 <use im_europass_icon.pdf>
-Package pdftex.def Info: im_europass_icon.pdf  used on input line 23.
+Package pdftex.def Info: im_europass_icon.pdf  used on input line 24.
 (pdftex.def)             Requested size: 11.38092pt x 11.38095pt.
-LaTeX Font Info:    Try loading font information for TS1+phv on input line 33.
+LaTeX Font Info:    Try loading font information for TS1+phv on input line 34.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1phv.fd"
 File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 43.
-<europasslogo2013.pdf, id=17, 374.9232pt x 104.78076pt>
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 44.
+<europasslogo2013.pdf, id=15, 374.9232pt x 104.78076pt>
 File: europasslogo2013.pdf Graphic file (type pdf)
 <use europasslogo2013.pdf>
-Package pdftex.def Info: europasslogo2013.pdf  used on input line 62.
+Package pdftex.def Info: europasslogo2013.pdf  used on input line 55.
 (pdftex.def)             Requested size: 127.6675pt x 35.67934pt.
  [1.1{C:/Users/rmarques/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
@@ -896,45 +896,47 @@ n.pdf> <C:/Users/rmarques/AppData/Roaming/MiKTeX/2.9/tex/latex/europasscv/githu
 b_europass_icon.pdf> <C:/Users/rmarques/AppData/Roaming/MiKTeX/2.9/tex/latex/eu
 ropasscv/linkedin_europass_icon.pdf> <C:/Users/rmarques/AppData/Roaming/MiKTeX/
 2.9/tex/latex/europasscv/im_europass_icon.pdf>]
+LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <9> not available
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 102.
 File: europasslogo2013.pdf Graphic file (type pdf)
 <use europasslogo2013.pdf>
-Package pdftex.def Info: europasslogo2013.pdf  used on input line 82.
+Package pdftex.def Info: europasslogo2013.pdf  used on input line 104.
 (pdftex.def)             Requested size: 76.60127pt x 21.40663pt.
  [2.2]
 File: europasslogo2013.pdf Graphic file (type pdf)
 <use europasslogo2013.pdf>
-Package pdftex.def Info: europasslogo2013.pdf  used on input line 117.
+Package pdftex.def Info: europasslogo2013.pdf  used on input line 114.
 (pdftex.def)             Requested size: 76.60127pt x 21.40663pt.
  [3.3] (cv.bbl)
 File: europasslogo2013.pdf Graphic file (type pdf)
 <use europasslogo2013.pdf>
-Package pdftex.def Info: europasslogo2013.pdf  used on input line 128.
+Package pdftex.def Info: europasslogo2013.pdf  used on input line 129.
 (pdftex.def)             Requested size: 76.60127pt x 21.40663pt.
  [4.4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
  (cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 128.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 129.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 128.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
  ) 
 Here is how much of TeX's memory you used:
- 17160 strings out of 492976
- 296609 string characters out of 3135982
- 376920 words of memory out of 3000000
- 20873 multiletter control sequences out of 15000+200000
- 554858 words of font info for 48 fonts, out of 3000000 for 9000
+ 17163 strings out of 492976
+ 296638 string characters out of 3135982
+ 379920 words of memory out of 3000000
+ 20875 multiletter control sequences out of 15000+200000
+ 555209 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,23n,65p,484b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,23n,65p,552b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
 w/helvetic/uhvro8a.pfb>
-Output written on cv.pdf (4 pages, 1060372 bytes).
+Output written on cv.pdf (4 pages, 1060203 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
+ 102 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
